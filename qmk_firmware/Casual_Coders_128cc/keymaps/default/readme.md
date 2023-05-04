@@ -1,0 +1,2 @@
+# The default keymap for the 128cc.
+This is a standard ANSI-104, with added media keys above the numpad, the additional row of function keys (F13-24), media controls above pscr/slck/paus, and 4 No-op keys above the media keys (user assignable 'macros').

@@ -1,0 +1,9 @@
+{
+    "keyboard_name": "123% or something",
+    "manufacturer": "CasualCoders",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x6969",
+        "device_version": "0.0.0"
+    }
+}

@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.8,
-          "height": 2.0,
-          "width": 3.2
+          "drill": 0.0,
+          "height": 0.7,
+          "width": 0.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -463,7 +463,7 @@
       "idf": "",
       "netlist": "100p-keebored.net",
       "specctra_dsn": "",
-      "step": "3D Models/Final-100p-keebored with models.step",
+      "step": "3D Models/Final keebored with models.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
